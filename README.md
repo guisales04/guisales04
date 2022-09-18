@@ -5,6 +5,8 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guisales04&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guisales04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
