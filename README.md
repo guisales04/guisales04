@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**guisales04/guisales04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Me chamo Guilherme Sales 🖐🏾
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-terra-jensen-sales-1207b2242)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guisales04&show_icons=true&theme=synthwave)
+
+## Tecnologias que utilizo no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+Aficionado por tecnologia, em busca da primeira vaga como dev. Cursando Python3 com o Professor Luiz Miranda.
